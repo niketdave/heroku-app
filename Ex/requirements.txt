@@ -1,0 +1,17 @@
+coreapi==2.3.3
+Django==1.11.7
+pytz==2017.2
+# -------------------------------------
+# For the persistence stores (Postgres)
+psycopg2==2.7.3.1
+
+# -------------------------------------
+# Facebook SDK
+# https://github.com/mobolic/facebook-sdk
+facebook-sdk==2.0.0
+requests==2.18.4
+
+
+#instagram APi
+python-instagram
+
